@@ -1,6 +1,6 @@
 # Sistema de Transações Financeiras - Frontend
 
-Aplicação frontend para gerenciamento de transações financeiras, desenvolvida como parte de um desafio técnico para módulo de processamento de eventos financeiros.
+Aplicação frontend para gerenciamento de transações financeiras, desenvolvida como parte de um estudo técnico para módulo de processamento de eventos financeiros.
 
 ## Visão Geral
 
